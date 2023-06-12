@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -cl-l | tr -d '\n'
